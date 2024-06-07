@@ -1,0 +1,1 @@
+Legal_doc.py is the python file to be executed, Set the path of index, styles and the model folder after downloading it from the link. After setting up the environment the code is perfectly executed. 
